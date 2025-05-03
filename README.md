@@ -53,7 +53,7 @@
 
 - LinkedIn: [yeswin-sompalli](https://www.linkedin.com/in/yeswin-sompalli/)
 - Email: yeswinsompalli@gmail.com
-- Portfolio: *(Coming Soon)*
+
 
 ---
 
