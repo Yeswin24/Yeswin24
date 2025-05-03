@@ -18,7 +18,7 @@
 - Preprocessed time-series data and used ensemble classifiers for anomaly detection
 - Visualized performance metrics using Matplotlib and Seaborn
 
-### 🧬 [Reward-Based Fine-Tuning for LLMs](https://github.com/Yeswin24/ReFT-LLM) *(if public or planned to be)*
+### 🧬 [Reward-Based Fine-Tuning for LLMs](https://github.com/Yeswin24/REFT_fine_tuning) 
 - Fine-tuned a transformer model using **Stanford ReFT** to generate emoji-based answers
 - Used **PyTorch** and **Hugging Face Transformers** for reward modeling
 - Documented and visualized the training process using Jupyter Notebook
