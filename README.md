@@ -1,47 +1,60 @@
-# 👋 Hi, I'm Yeswin Chowdary
+# 👋 Hi, I'm Yeswin Sompalli
 
-🎓 Master's Student in Business Analytics & AI at UT Dallas  
-💼 Actively seeking Summer 2025 internships in Analytics, AI, Business Intelligence & Product Strategy  
-📊 Passionate about solving problems through data, automation, and machine learning  
-
----
-
-## 🔧 Skills & Tools
-
-- **Languages**: Python, SQL, R, JavaScript, HTML/CSS  
-- **Data Science & ML**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, XGBoost  
-- **Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
-- **Database & Backend**: MongoDB, MySQL, Firebase, Node.js, Express.js  
-- **Tools**: Git, VS Code, Jupyter, Postman, Excel, Jira  
+🎓 Graduate student in Computer Science at Purdue University Fort Wayne  
+🔍 Focused on AI, Machine Learning, and Full-Stack Software Development  
+💼 Actively seeking Summer/Fall 2025 internships in AI/ML, NLP, or Software Development  
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔍 [Fraud Detection in Financial Transactions](https://github.com/yourusername/fraud-detection-ml)
-Built a machine learning pipeline to detect fraudulent transactions with precision tuning, SMOTE balancing, and Random Forest.  
-**Tools**: Python, Pandas, Scikit-learn, Tableau
+### 🧠 [Voice-Controlled AI Assistant](https://github.com/Yeswin24/Live-kit-AI-assistant)
+- Built a real-time voice assistant using **LiveKit**, **OpenAI APIs**, and **Silero VAD**
+- Processed speech-to-text, text-to-speech, and custom voice command handling using Enums and decorators
+- Managed audio sessions asynchronously in a virtual room setup
 
-### 🤖 [Voice-Controlled AI Assistant](https://github.com/yourusername/voice-ai-assistant)
-Developed a smart assistant using speech recognition and NLP to automate daily tasks.  
-**Tech**: Python, SpeechRecognition, pyttsx3
+### 📊 [Anomaly Detection in Smart Homes](https://github.com/Yeswin24/anomaly-detection-DS20S)
+- Applied machine learning techniques to detect anomalies in smart home devices
+- Preprocessed time-series data and used ensemble classifiers for anomaly detection
+- Visualized performance metrics using Matplotlib and Seaborn
 
-### 🍕 [Full-Stack Food Delivery App](https://github.com/yourusername/food-delivery-app)
-Designed and implemented a MERN-based food ordering platform with real-time order tracking.  
-**Stack**: MongoDB, Express.js, React.js, Node.js
+### 🧬 [Reward-Based Fine-Tuning for LLMs](https://github.com/Yeswin24/ReFT-LLM) *(if public or planned to be)*
+- Fine-tuned a transformer model using **Stanford ReFT** to generate emoji-based answers
+- Used **PyTorch** and **Hugging Face Transformers** for reward modeling
+- Documented and visualized the training process using Jupyter Notebook
 
-### 🧠 [ReFT: Reward-Based Fine-Tuning of LLMs](https://github.com/yourusername/llm-reft)
-Experimented with fine-tuning large language models based on human feedback using ReFT technique.  
-**Framework**: HuggingFace, PyTorch
+### 🍔 [Full-Stack Food Delivery Web App](https://github.com/Yeswin24/food_delivery_fullstack_application)
+- Developed complete food ordering platform with **React.js**, **Node.js**, **Express**, and **MongoDB**
+- Implemented RESTful APIs for users, carts, orders, and admin panel
+- Used React Router and Toast notifications for a dynamic frontend UX
+
+### 🔐 [Passwordless Face Authentication System](https://github.com/Yeswin24/passwordless_authentication)
+- Built a passwordless authentication system using **face recognition**
+- Focused on secure login flows with camera input and verification
+
+### 📈 [Job Market Analysis](https://github.com/Yeswin24/Job-market-analysis)
+- Conducted data analysis on job trends and skills demand
+- Used **Python**, **pandas**, **matplotlib** for data wrangling and visualization
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages**: Python (expert), SQL (expert), C, C++, HTML  
+- **ML & AI**: Scikit-learn, PyTorch, Hugging Face, NLP, GenAI, Azure ML  
+- **Web**: React.js, Node.js, Express.js, MongoDB, Flask, Django  
+- **Tools**: Git, GitHub, JIRA, Tableau, Power BI, Docker  
+- **Platforms**: Azure ML, Google Colab, Linux  
+- **Soft Skills**: Team collaboration, analytical thinking, clear communication
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/yourlinkedin)
-- [Email](mailto:your.email@utdallas.edu)
-- [Portfolio Website](https://yourwebsite.com)
+- LinkedIn: [yeswin-sompalli](https://www.linkedin.com/in/yeswin-sompalli/)
+- Email: yeswinsompalli@gmail.com
+- Portfolio: *(Coming Soon)*
 
 ---
 
-⭐ **Feel free to explore my repositories and connect for collaboration or opportunities!**
+⭐ Feel free to explore my repositories, fork any project, or connect with me for collaborations or opportunities!
